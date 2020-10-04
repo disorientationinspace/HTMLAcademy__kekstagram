@@ -12,7 +12,7 @@
 ----
 
 
-Previous project: <a href = "https://github.com/disorientationinspace/HTMLAcademy__keksobooking">Keksobooking</a>
+Previous project: <a href = "https://github.com/disorientationinspace/HTMLAcademy__keksobooking">Keksobooking</a><br>
 Next project: <a href = "https://github.com/disorientationinspace/HTMLAcademy__task-manager">Task Manager</a>
 
 ----
